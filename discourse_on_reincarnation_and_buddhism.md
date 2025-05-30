@@ -1,3 +1,5 @@
+# Discourse on Reincarnation and Buddhism
+
 # **Introduction**
 
 This discourse between Mike Quentel and OpenAI's ChatGPT4o model occurred in the pre-dawn hours of 30 May 2025.
