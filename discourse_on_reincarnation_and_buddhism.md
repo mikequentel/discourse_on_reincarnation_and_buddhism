@@ -1,3 +1,5 @@
+![The Buddha](./buddha.png)
+
 # Discourse on Reincarnation and Buddhism
 
 # **Introduction**
