@@ -1,6 +1,10 @@
-### **Introduction**
+# **Introduction**
 
 This discourse between Mike Quentel and OpenAI's ChatGPT4o model occurred in the pre-dawn hours of 30 May 2025.
+
+---
+
+# **Questions and Answers**
 
 **What is the earliest mention of the idea of reincarnation?**
 
